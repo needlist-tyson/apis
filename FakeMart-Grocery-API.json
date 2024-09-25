@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "item_id": 101,
+      "name": "Organic Apples",
+      "product_image": "https://i5.walmartimages.ca/images/Large/405/339/6000207405339.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 1.50
+    },
+    {
+      "item_id": 102,
+      "name": "Whole Milk (1 Gallon)",
+      "product_image": "https://i5.walmartimages.com/asr/7da26622-9d5e-41c2-a32b-4f07430abc14.f10fb520257771c58873cbedaa3989f0.png?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 3.99
+    },
+    {
+      "item_id": 103,
+      "name": "Free-Range Eggs (12 pack)",
+      "product_image": "https://i5.walmartimages.com/asr/ec5cea32-25d4-4bc4-9b5f-72b1da9a4e8b.7e92fc5e15fcdc03622299b2d10cc259.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 4.29
+    },
+    {
+      "item_id": 104,
+      "name": "Almond Butter (16 oz)",
+      "product_image": "https://i5.walmartimages.com/asr/3685514c-7981-4534-9d81-c1b174834449.32948bba88e15c975c672ee628235abf.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 8.99
+    },
+    {
+      "item_id": 105,
+      "name": "Baby Spinach (1 lb)",
+      "product_image": "https://i5.walmartimages.ca/images/Large/000/962/6000204000962.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 2.99
+    },
+    {
+      "item_id": 106,
+      "name": "Chicken Breast (1 lb)",
+      "product_image": "https://i5.walmartimages.ca/images/Large/765/017/605388765017.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 6.49
+    },
+    {
+      "item_id": 107,
+      "name": "Bread (Whole Wheat)",
+      "product_image": "https://i5.walmartimages.ca/images/Large/023/787/6000197023787.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 2.50
+    },
+    {
+      "item_id": 108,
+      "name": "Toilet Paper (12 rolls)",
+      "product_image": "https://i5.walmartimages.ca/images/Large/564/023/999999-605388564023.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 10.99
+    },
+    {
+      "item_id": 109,
+      "name": "Laundry Detergent (64 oz)",
+      "product_image": "https://i5.walmartimages.ca/images/Large/188/557/6000204188557.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 12.99
+    },
+    {
+      "item_id": 110,
+      "name": "Bananas (1 bunch)",
+      "product_image": "https://i5.walmartimages.ca/images/Large/580/6_r/875806_R.jpg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+      "unit_price": 1.99
+    }
+  ]
+}
